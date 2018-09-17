@@ -1,3 +1,27 @@
+body {
+  background: url(../images/bananas.png)
+}
+
 img {
   width: 150px;
 }
+p {
+  line-height: 1.5;
+  font-size: 20px;
+}
+
+#instructions {
+  width: 50%;
+  align-self: auto;
+  background-color: aquamarine;
+  margin: 10px;
+}
+h1 {
+  width: 100%;
+  font-size: 36px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}  
+
+  
