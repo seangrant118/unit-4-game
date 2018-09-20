@@ -15,13 +15,46 @@ p {
   align-self: auto;
   background-color: aquamarine;
   margin: 10px;
+  color: red;
 }
+
 h1 {
   width: 100%;
   font-size: 36px;
   text-align: center;
   margin-top: 20px;
   margin-bottom: 20px;
+  color: gray; 
 }  
 
-  
+.container {
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  justify-content: center;
+}
+
+.score {
+  background-color: aqua;
+  width: 250px;
+  margin-bottom: 10px;
+  font-size: 24px;
+  color: rgb(229, 255, 0);
+}
+
+.crystals {
+  border: 1px solid #dee2e6;
+  border-radius: 1rem;
+}
+
+#total-score {
+  font-size: 36px;
+}
+
+.your-score {
+  background-color: greenyellow;
+  color: white;
+  width: 150px;
+}
